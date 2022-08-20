@@ -2,7 +2,7 @@
 
 ## Demo Credentials
 
--   User Email : demo@gmail.com
+-   Username : demouser
 -   Password: demopass
 
 
